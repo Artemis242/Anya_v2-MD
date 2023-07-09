@@ -75,7 +75,38 @@ global.mess = {
     ban: `You're banned from using this bot!`,
     nsfw: 'This group is not *NSFW* enabled.',
     banChat: 'This group is banned from using this bot, please contact owner to get unbanned.',
-	fiche:'mieux tu t"enregistre maintenant'
+	
+	
+    fiche:'mieux tu t"enregistre maintenant', 
+
+    cv: '*アニメ.サイコ100🏮* 
+
+' *☯︎𝙲𝙰𝚁𝙳 𝙼𝙴𝙼𝙱𝙴𝚁*' 
+
+' 𝑵𝑶𝑴:' 
+
+
+' 𝑽𝑰𝑪𝑻𝑶𝑰𝑹𝑬ᵠᵘⁱᶻ:00'
+
+
+' 𝑽𝑰𝑪𝑻𝑶𝑰𝑹𝑬ᵈᵘᵉˡ:00'
+
+
+' 𝑽𝑰𝑪𝑻𝑶𝑰𝑹𝑬ᶜʰᵃᵐᵖⁱᵒⁿᵃᵗ:00' 
+
+
+' 𝑽𝑬𝑹𝑺𝑬:' 
+
+
+' 𝑪𝑶𝑴𝑷𝑻𝑬: 100🪙' 
+
+
+' 𝐷𝐴𝑌𝑆= -10🪙'
+
+
+'*La vie est un jeu alors joue ta vie*🙃'
+
+' 🅑︎🅞︎🅝︎🅝︎🅔︎ Ⓒ︎Ⓗ︎Ⓐ︎Ⓝ︎Ⓒ︎Ⓔ︎'
 }
 
 
