@@ -74,7 +74,8 @@ global.mess = {
     error: '```404 Error```',
     ban: `You're banned from using this bot!`,
     nsfw: 'This group is not *NSFW* enabled.',
-    banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
+    banChat: 'This group is banned from using this bot, please contact owner to get unbanned.',
+	fiche:'mieux tu t"enregistre maintenant'
 }
 
 
