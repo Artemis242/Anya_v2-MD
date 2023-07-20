@@ -34,7 +34,7 @@ global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM �
 
 
 global.ownername = "MP-KING"    
-global.ownernumber = ["242064942978"]
+global.ownernumber = ["242053725924"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
 global.region = "Enter Your Country Name Here"
@@ -64,9 +64,9 @@ global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/Allmenu.jpg') // Thumbnail 
 
 global.mess = {
     success: 'VAWULENCE VALIDÉ ✅',
-    admin: 'You must be an admin to use this command.',
+    admin: '*il te faut un minimum de notoriété pour utiliser cette commande*',
     botAdmin: 'The bot needs to be an admin to process this command.',
-    owner: 'Tu penses être au même niveau que SARRUI-SAMA pour utiliser cette commande?',
+    owner: '```Tu penses être au même niveau que "SARRUI-Sama" pour utiliser cette commande?```',
     group: 'This command is only made for group chats.',
     private: 'This command is only for private chats.',
     wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
@@ -74,7 +74,7 @@ global.mess = {
     error: '```404 Error```',
     ban: `You're banned from using this bot!`,
     nsfw: 'This group is not *NSFW* enabled.',
-    banChat: 'This group is banned from using this bot, please contact owner to get unbanned.',
+    banChat: '```Ce groupe ne pas utiliser le bot pour le moment veuillez contacter le meilleur flemmard all time :SARRUI-SAMA.```',
     fiche:'mieux tu t"enregistre maintenant', 
 
 }
