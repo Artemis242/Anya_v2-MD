@@ -66,7 +66,7 @@ global.mess = {
     success: 'VAWULENCE VALIDÉ ✅',
     admin: '*il te faut un minimum de notoriété pour utiliser cette commande*',
     botAdmin: 'The bot needs to be an admin to process this command.',
-    owner: '```Tu penses être au même niveau que "SARRUI-Sama" pour utiliser cette commande?```',
+    owner: '```MP ne crois pas que tu ai le niveau, entraîne toi, mange bien et fais toi discret car honte sera sur, après avoir fait tout cela, MP va tiré au sort pour déterminer celui qui va pourvoir utiliser cette commande....bien sûr tu ne participe pas seul😂😂```',
     group: 'This command is only made for group chats.',
     private: 'This command is only for private chats.',
     wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
